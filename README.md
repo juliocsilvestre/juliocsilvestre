@@ -3,6 +3,16 @@
     <img align="center" alt="Julio-top" height="320" width="430" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 </div>
 
+##### Olá, eu sou o Júlio
+
+- 🎓 graduado em administração pela FAFIRE - Recife/BR
+- 📚 apaixonado por tecnologia e conhecimento
+- 🎨 desenvolvedor front-end
+- 🪐 o espaço e todas as oportunidades nele me fascinam
+- :speech_balloon: me pergunte sobre tecnologia, front end, novas tecnologias, espaço e cultura nerd, ou qualquer coisa!
+- 📚 estudando sobre tecnologia e desenvolvimento todos os dias
+- :mailbox: Você pode entrar em contato comigo com os links abaixo
+
 
 ##### Hi, I'm Julio:
 
@@ -21,13 +31,13 @@
  
 </div>
 
-##### Languages I use
+##### Linguagens que uso // Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-##### Learning languages
+##### Linguagens em estudo // Learning languages
 
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
