@@ -12,7 +12,7 @@
 - 🕹️ apaixonado por jogos
 - :speech_balloon: me pergunte sobre tecnologia, front end, novas tecnologias, espaço e cultura nerd, ou qualquer coisa!
 - 📚 estudando sobre tecnologia e desenvolvimento todos os dias
-- :mailbox: Você pode entrar em contato comigo com os links abaixo
+- :mailbox: Você pode entrar em contato comigo com os links abaixo:
 
 
 ##### Hi, I'm Julio:
@@ -24,7 +24,7 @@
 - 🕹️ passionate about games
 - :speech_balloon: ask me about technology, front end, new technologies, space and nerd culture, or anything!
 - 📚 studying about technology and development every day
-- :mailbox: You can reach me with the links below
+- :mailbox: You can reach me with the links below:
 
 
 <div> 
@@ -44,6 +44,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
+##### 🔨 Ferramentas // 🔨 Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <div align="center">
   <a href="https://github.com/juliocsilvestre">
