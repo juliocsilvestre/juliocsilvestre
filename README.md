@@ -33,7 +33,7 @@
  
 </div>
 
-##### Linguagens que uso // Languages I use
+##### Linguagens que uso // Languages  use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)
