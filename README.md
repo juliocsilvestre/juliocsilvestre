@@ -58,5 +58,5 @@
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    <div align="center"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=juliocsilvestre&theme=tokyonight&border_radius=5"/></div>
+    <div align="center"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=juliocsilvestre&theme=tokyonight&border_radius=5"/></div>>
 
