@@ -19,7 +19,7 @@
 ##### Hi, I'm Julio:
 
 - 🎓 graduated in administration from FAFIRE - Recife/BR
-- 🎓 studying systems analysis and development - Faculdade Descomplica
+- 🎓 studying systems analysis and development - college Descomplica
 - 📚 passionate about technology and knowledge
 - 🎨 front-end developer
 - 🪐 the space and every opportunity in it fascinates me
