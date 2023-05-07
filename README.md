@@ -6,7 +6,7 @@
 ##### Olá, eu sou o Júlio
 
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
-- 🎓 cursando analise e desenvolvimento de sistemas - Faculdade Descomplica
+- 🎓 cursando analise e desenvolvimento de sistemas - Universidade Estácio
 - 📚 apaixonado por tecnologia e conhecimento
 - 🎨 desenvolvedor front-end
 - 🪐 o espaço e todas as oportunidades nele me fascinam
@@ -19,7 +19,7 @@
 ##### Hi, I'm Julio:
 
 - 🎓 graduated in administration from FAFIRE - Recife/BR
-- 🎓 studying systems analysis and development - college Descomplica
+- 🎓 studying systems analysis and development - university Estacio
 - 📚 passionate about technology and knowledge
 - 🎨 front-end developer
 - 🪐 the space and every opportunity in it fascinates me
