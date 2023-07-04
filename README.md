@@ -15,6 +15,12 @@
 - 📚 estudando sobre tecnologia e desenvolvimento todos os dias
 - :mailbox: Você pode entrar em contato comigo com os links abaixo:
 
+<div> 
+    
+<a href="https://www.linkedin.com/in/julio-silvestre-a13ba5158/" target="_blank"><img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href = "mailto:jcss.silvestre@gmail.com"><img height="20em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://juliocsilvestre.github.io/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a><a href="https://instagram.com/_juliojcss" target="_blank"><img height="20em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
 
 ##### Hi, I'm Julio:
 
