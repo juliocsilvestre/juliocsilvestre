@@ -6,7 +6,7 @@
 ##### Olá, eu sou o Júlio
 
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
-- 🎓 cursando analise e desenvolvimento de sistemas - Universidade Estácio (2025.01)
+- 🎓 cursando analise e desenvolvimento de sistemas - Universidade Estácio (2025.06)
 - 📚 apaixonado por tecnologia e conhecimento
 - 💻 desenvolvedor de software
 - 🪐 o espaço e todas as oportunidades nele me fascinam
@@ -25,7 +25,7 @@
 ##### Hi, I'm Julio:
 
 - 🎓 graduated in administration from FAFIRE - Recife/BR
-- 🎓 studying systems analysis and development - university Estacio (2025.01)
+- 🎓 studying systems analysis and development - university Estacio (2025.06)
 - 📚 passionate about technology and knowledge
 - 💻 software developer
 - 🪐 the space and every opportunity in it fascinates me
