@@ -11,7 +11,7 @@
 - 💻 desenvolvedor de software
 - 🪐 o espaço e todas as oportunidades nele me fascinam
 - 🕹️ apaixonado por jogos
-- :speech_balloon: me pergunte sobre tecnologia, front end, novas tecnologias, espaço e cultura nerd, ou qualquer coisa!
+- :speech_balloon: me pergunte sobre tecnologia, espaço e cultura nerd, ou qualquer coisa!
 - 📚 estudando sobre tecnologia e desenvolvimento todos os dias
 
 ### Hi, I'm Julio:
@@ -22,7 +22,7 @@
 - 💻 software developer
 - 🪐 the space and every opportunity in it fascinates me
 - 🕹️ passionate about games
-- :speech_balloon: ask me about technology, front end, new technologies, space and nerd culture, or anything!
+- :speech_balloon: ask me about technology, space and nerd culture, or anything!
 - 📚 studying about technology and development every day
 
 ### Linguagens que uso // Languages I use
