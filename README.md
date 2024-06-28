@@ -30,12 +30,20 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ### Linguagens em estudo // Learning languages
 
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![PySide6](https://img.shields.io/badge/-PySide6-000000?style=flat&logo=qt)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![TDD](https://img.shields.io/badge/-TDD-000000?style=flat&logo=testing-library)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-000000?style=flat&logo=design)
+
 
 ### 🔨 Ferramentas // 🔨 Tools
 
