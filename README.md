@@ -8,7 +8,7 @@
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
 - 🎓 cursando analise e desenvolvimento de sistemas - Universidade Estácio (2025.06)
 - 📚 apaixonado por tecnologia e conhecimento
-- 💻 desenvolvedor de software
+- 💻 desenvolvedor de software - backend
 - 🪐 o espaço e todas as oportunidades nele me fascinam
 - 🕹️ apaixonado por jogos
 - :speech_balloon: me pergunte sobre tecnologia, espaço e cultura nerd, ou qualquer coisa!
@@ -19,7 +19,7 @@
 - 🎓 graduated in administration from FAFIRE - Recife/BR
 - 🎓 studying systems analysis and development - university Estacio (2025.06)
 - 📚 passionate about technology and knowledge
-- 💻 software developer
+- 💻 software developer - backend
 - 🪐 the space and every opportunity in it fascinates me
 - 🕹️ passionate about games
 - :speech_balloon: ask me about technology, space and nerd culture, or anything!
