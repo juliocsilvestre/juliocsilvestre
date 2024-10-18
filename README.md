@@ -3,6 +3,14 @@
     <img align="center" alt="Julio-top" height="320" width="430" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 </div>
 
+<p align="center" >
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/juliocsilvestre/juliocsilvestre/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliocsilvestre/juliocsilvestre/output-3d-contrib/day.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/juliocsilvestre/juliocsilvestre/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
 ### Olá, eu sou o Júlio:
 
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
