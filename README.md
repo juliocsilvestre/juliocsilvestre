@@ -45,7 +45,7 @@ Back-end:
 ![SQL](https://skillicons.dev/icons?i=postgres)
 ![Django](https://skillicons.dev/icons?i=django)
 
-Ferramentas:
+Ferramentas / tools:
 
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 ![Git](https://skillicons.dev/icons?i=git)
