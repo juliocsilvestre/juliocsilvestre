@@ -25,52 +25,49 @@
 - :speech_balloon: ask me about technology, space and nerd culture, or anything!
 - 📚 studying about technology and development every day
 
-### Linguagens que uso // Languages I use
+### Skills :
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+Front-end:
 
-### Linguagens em estudo // Learning languages
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![PySide6](https://img.shields.io/badge/-PySide6-000000?style=flat&logo=qt)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
-![TDD](https://img.shields.io/badge/-TDD-000000?style=flat&logo=testing-library)
-![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-000000?style=flat&logo=design)
+Back-end:
 
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=postgres)
+![Django](https://skillicons.dev/icons?i=django)
 
-### 🔨 Ferramentas // 🔨 Tools
+Ferramentas:
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+
 
 
 ###  :mailbox: Contato / Contact
 
 <div> 
     <a href="https://www.linkedin.com/in/julio-silvestre-a13ba5158/" target="_blank">
-        <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
     <a href="mailto:jcss.silvestre@gmail.com">
-        <img height="20em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img height="28em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a> 
     <a href="https://juliocsilvestre.github.io/" target="_blank">
-        <img height="20em" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" target="_blank">
+        <img height="28em" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" target="_blank">
     </a>
     <a href="https://instagram.com/_juliojcss" target="_blank">
-        <img height="20em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        <img height="28em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
 </div>
 
-
-
+###  :bar_chart: Status / Stats
 <div align="center">
   <a href="https://github.com/juliocsilvestre">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
