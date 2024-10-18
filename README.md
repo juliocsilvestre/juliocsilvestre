@@ -3,7 +3,7 @@
     <img align="center" alt="Julio-top" height="320" width="430" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 </div>
 
-### Olá, eu sou o Júlio
+### Olá, eu sou o Júlio:
 
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
 - 🎓 cursando analise e desenvolvimento de sistemas - Universidade Estácio (2026.01)
@@ -50,7 +50,7 @@ Ferramentas:
 
 
 
-###  :mailbox: Contato / Contact
+###  :mailbox: Contato / Contact:
 
 <div> 
     <a href="https://www.linkedin.com/in/julio-silvestre-a13ba5158/" target="_blank">
@@ -67,7 +67,7 @@ Ferramentas:
     </a>
 </div>
 
-###  :bar_chart: Status / Stats
+###  :bar_chart: Status / Stats:
 <div align="center">
   <a href="https://github.com/juliocsilvestre">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
