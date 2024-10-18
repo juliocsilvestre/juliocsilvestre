@@ -1,8 +1,3 @@
-
-<div align="center">
-    <img align="center" alt="Julio-top" height="320" width="430" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
-</div>
-
 <p align="center" >
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/juliocsilvestre/juliocsilvestre/output-3d-contrib/night.svg" />
