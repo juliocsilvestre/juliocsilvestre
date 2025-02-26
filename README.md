@@ -39,6 +39,7 @@ Front-end:
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Vite](https://skillicons.dev/icons?i=vite)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
 
 Back-end:
 
