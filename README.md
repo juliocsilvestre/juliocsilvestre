@@ -9,7 +9,6 @@
 ### Olá, eu sou o Júlio:
 
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
-- 🎓 cursando analise e desenvolvimento de sistemas - Universidade Uninassau (2026.01)
 - 📚 apaixonado por tecnologia e conhecimento
 - 💻 desenvolvedor de software - frontend/mobile/backend
 - 🪐 o espaço e todas as oportunidades nele me fascinam
@@ -20,7 +19,6 @@
 ### Hi, I'm Julio:
 
 - 🎓 graduated in administration from FAFIRE - Recife/BR
-- 🎓 studying systems analysis and development - university Uninassau (2026.01)
 - 📚 passionate about technology and knowledge
 - 💻 software developer - frontend/mobile/backend
 - 🪐 the space and every opportunity in it fascinates me
