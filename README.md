@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jsilvestredev.png" alt="Foto de Julio Silvestre" width="100%" />
+  <img src="assets/jsilvestredev.png" alt="Foto de Julio Silvestre" width="50%" />
 </p>
 
 ### Olá, eu sou o Júlio:
