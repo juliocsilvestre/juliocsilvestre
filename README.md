@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/jsilvestredev.png" alt="Foto de Julio Silvestre" width="150" />
+</p>
+
 ### Olá, eu sou o Júlio:
 
 - 🎓 graduado em administração pela FAFIRE - Recife/BR
@@ -30,6 +34,7 @@ Front-end:
 ![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 Back-end:
 
@@ -37,6 +42,8 @@ Back-end:
 ![Python](https://skillicons.dev/icons?i=python)
 ![SQL](https://skillicons.dev/icons?i=postgres)
 ![Django](https://skillicons.dev/icons?i=django)
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 
 Ferramentas / tools:
 
@@ -44,9 +51,7 @@ Ferramentas / tools:
 ![Git](https://skillicons.dev/icons?i=git)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
-
-
-###  :mailbox: Contato / Contact:
+### :mailbox: Contato / Contact:
 
 <div> 
     <a href="https://www.linkedin.com/in/julio-silvestre-a13ba5158/" target="_blank">
@@ -63,11 +68,11 @@ Ferramentas / tools:
     </a>
 </div>
 
-###  :bar_chart: Status / Stats:
+### :bar_chart: Status / Stats:
+
 <div align="center">
   <a href="https://github.com/juliocsilvestre">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
