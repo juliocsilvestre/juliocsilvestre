@@ -73,12 +73,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/juliocsilvestre">
-    <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-   &nbsp;&nbsp;&nbsp;&nbsp; <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight&card_width=450"" />
-  </a>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    </td>
+    <td width="15"></td> 
+    <td>
+      <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight&card_width=450" />
+    </td>
+  </tr>
+</table>
 
 
 
