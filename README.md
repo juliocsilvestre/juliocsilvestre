@@ -76,7 +76,7 @@
 <div align="center">
   <a href="https://github.com/juliocsilvestre">
     <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight&card_width=450"" />
+   &nbsp;&nbsp;&nbsp;&nbsp; <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight&card_width=450"" />
   </a>
 </div>
 
