@@ -31,7 +31,6 @@
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React Native](https://skillicons.dev/icons?i=react)
 ![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
