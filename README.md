@@ -1,88 +1,87 @@
-<p align="center">
-  <img src="assets/Gemini_Generated_Image_npaubqnpaubqnpau.png" alt="Foto de Julio Silvestre" width="40%" />
-</p>
+<div align="center">
+  <img src="assets/Gemini_Generated_Image_npaubqnpaubqnpau.png" alt="Avatar pixel art de Júlio Silvestre" width="180" />
 
-# Olá, eu sou o Júlio Silvestre 👋 / Hi, I'm Julio Silvestre 👋
+  # Olá, eu sou o Júlio Silvestre 👋
+  ### Hi, I'm Julio Silvestre
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Frontend+%7C+Mobile+%7C+Backend;Recife+%E2%80%94+Brasil" alt="Typing SVG" />
+
+  <br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-silvestre-a13ba5158/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcss.silvestre@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://juliocsilvestredev.com.br/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_juliojcss)
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🇧🇷 Português
-- 🎓 Bacharel em Administração (FAFIRE, Recife/BR) e graduando em Ciência da Computação  
-- 💻 Desenvolvedor Full-Stack | Frontend, Mobile e Backend  
-- 📚 Apaixonado por tecnologia, aprendizado contínuo e soluções criativas  
-- 🪐 Fascinado pelo espaço e por novas oportunidades  
-- 🕹️ Entusiasta de jogos e cultura nerd  
-- 💬 Curioso por natureza — pergunte-me sobre tecnologia, desenvolvimento, ciência ou cultura geek  
+- 🎓 Bacharel em Administração (FAFIRE, Recife) e graduando em Ciência da Computação
+- 💻 Desenvolvedor Full-Stack — frontend, mobile e backend
+- 🛰️ Desenvolvedor no DECEA — Departamento de Controle do Espaço Aéreo
+- 🕹️ Entusiasta de jogos, pixel art e cultura nerd
+- 💬 Curioso por natureza — me pergunte sobre tech, ciência ou geek culture
+
+</td>
+<td valign="top" width="50%">
 
 ### 🇺🇸 English
-- 🎓 Bachelor in Administration (FAFIRE, Recife/BR) and currently pursuing a degree in Computer Science  
-- 💻 Full-Stack Developer | Frontend, Mobile, and Backend  
-- 📚 Passionate about technology, continuous learning, and creative solutions  
-- 🪐 Fascinated by space and new opportunities for growth  
-- 🕹️ Enthusiast of games and nerd culture  
-- 💬 Naturally curious — feel free to ask me about technology, development, science, or geek culture  
+- 🎓 Bachelor in Administration (FAFIRE, Recife) and Computer Science student
+- 💻 Full-Stack Developer — frontend, mobile, and backend
+- 🛰️ Developer at DECEA — Brazilian Airspace Control Department
+- 🕹️ Games, pixel art, and nerd culture enthusiast
+- 💬 Naturally curious — ask me about tech, science, or geek culture
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Skills
 
-**Front-end:**  
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue.js](https://skillicons.dev/icons?i=vue)
-![Vite](https://skillicons.dev/icons?i=vite)
-![WordPress](https://skillicons.dev/icons?i=wordpress)
+**Front-end**  
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,wordpress)](https://skillicons.dev)
 
-**Back-end:**  
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+**Back-end**  
+[![Back-end](https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,postgres)](https://skillicons.dev)
 
-**Ferramentas & Others:**  
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Docker](https://skillicons.dev/icons?i=docker)
-
----
-
-## 📫 Contato / Contact
-
-<div> 
-    <a href="https://www.linkedin.com/in/julio-silvestre-a13ba5158/" target="_blank">
-        <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a> 
-    <a href="mailto:jcss.silvestre@gmail.com">
-        <img height="28em" src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a> 
-    <a href="https://juliocsilvestredev.com.br/" target="_blank">
-        <img height="28em" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139">
-    </a>
-    <a href="https://instagram.com/_juliojcss" target="_blank">
-        <img height="28em" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div>
+**Ferramentas**  
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </td>
-    <td width="15"></td> 
-    <td>
-      <img height="150em" src="https://github-readme-stats-juliocsilvestres-projects.vercel.app/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=7&theme=tokyonight&card_width=450" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=juliocsilvestre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs" alt="GitHub stats de Júlio Silvestre" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juliocsilvestre/juliocsilvestre/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições no GitHub" />
+</p>
 
+---
 
+## 🚀 Projetos em destaque / Featured
+
+<div align="center">
+  <a href="https://github.com/juliocsilvestre/clone-tabnews">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=clone-tabnews&theme=tokyonight&hide_border=true" alt="clone-tabnews" />
+  </a>
+  <a href="https://github.com/juliocsilvestre/usg-system">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=usg-system&theme=tokyonight&hide_border=true" alt="usg-system" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <em>Recife, Brasil · sempre construindo alguma coisa ✨</em>
+</div>
