@@ -64,7 +64,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <em>· Sempre construindo alguma coisa ✈️ </em>
-</div>
