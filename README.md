@@ -63,10 +63,6 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=juliocsilvestre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juliocsilvestre/juliocsilvestre/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições no GitHub" />
-</p>
-
 ---
 
 ## 🚀 Projetos em destaque / Featured
@@ -75,8 +71,8 @@
   <a href="https://github.com/juliocsilvestre/clone-tabnews">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=clone-tabnews&theme=tokyonight&hide_border=true" alt="clone-tabnews" />
   </a>
-  <a href="https://github.com/juliocsilvestre/usg-system">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=usg-system&theme=tokyonight&hide_border=true" alt="usg-system" />
+  <a href="https://github.com/juliocsilvestre/fly-quest-system">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=fly-quest-system&theme=tokyonight&hide_border=true" alt="fly-quest-system" />
   </a>
 </div>
 
