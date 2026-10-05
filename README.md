@@ -65,19 +65,6 @@
 
 ---
 
-## 🚀 Projetos em destaque / Featured
-
 <div align="center">
-  <a href="https://github.com/juliocsilvestre/clone-tabnews">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=clone-tabnews&theme=tokyonight&hide_border=true" alt="clone-tabnews" />
-  </a>
-  <a href="https://github.com/juliocsilvestre/fly-quest-system">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=juliocsilvestre&repo=fly-quest-system&theme=tokyonight&hide_border=true" alt="fly-quest-system" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <em>Recife, Brasil · sempre construindo alguma coisa ✨</em>
+  <em>· Sempre construindo alguma coisa ✈️ </em>
 </div>
